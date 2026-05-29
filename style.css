@@ -1,0 +1,6 @@
+.cabecalho{
+    background-color: rgb(162, 0, 255);
+    color: azure;
+display: flex;
+justify-content: center;
+}
